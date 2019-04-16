@@ -12,6 +12,13 @@
   background-size: cover;
 }
 
+.contact {
+  /* background-color: red; */
+  background-image: url("../images/LightBlueDesign.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media screen and (min-width: 400px) {
     body {
       background-color: lightgreen;
