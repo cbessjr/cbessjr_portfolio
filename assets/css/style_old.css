@@ -1,0 +1,39 @@
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.contact {
+  /* background-color: red; */
+  background-image: url("../images/LightBlueDesign.jpg");
+  /* background-repeat: no-repeat; */
+  background-size: auto;
+}
+
+.home {
+    background-color: light burlywood;
+    /* background-image: url("../images/LightGreyDesign.jpg"); */
+    /* background-repeat: no-repeat; */
+    background-size: 100% auto;
+}
+
+.portfolio {
+  /* background-color: red; */
+  background-image: url("../images/LightBlueDesign.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+@media screen and (min-width: 400px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+  
+@media screen and (min-width: 800px) {
+    body {
+      background-color: lavender;
+    }
+  }
