@@ -302,9 +302,17 @@ body {
  .center {
     display: block;
     margin-left: 40%;
-    margin-right: 40%;
+    /* margin-right: 41%; */
     /* width: 50%; */
   }
+
+
+  .center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
 
   .resume-pic {
     border-color: rgb(84, 80, 112);
